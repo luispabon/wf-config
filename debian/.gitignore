@@ -2,6 +2,7 @@ sway-backgrounds/
 tmp/
 usr/
 wf-config/
+libwf-config/
 debhelper-build-stamp
 files
 *.log

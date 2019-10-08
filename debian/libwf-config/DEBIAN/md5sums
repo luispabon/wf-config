@@ -1,6 +1,6 @@
 d148b4f1fe2c8beeaea0cd55dbc54646  usr/include/wayfire/animation.hpp
 6d85f6f638f86024935a537b69019bf1  usr/include/wayfire/config.hpp
-5be9ed6627e8733fd70e281e1b723577  usr/lib/x86_64-linux-gnu/libwf-config.so
-d301a11c4ed3a216986831364621fc1c  usr/lib/x86_64-linux-gnu/pkgconfig/wf-config.pc
+39fedcd92da7980aa84c089d4ba12f9b  usr/lib/x86_64-linux-gnu/libwf-config.so.0.3
+ca8bb6ad3cf8871b6994eb4373f826dc  usr/lib/x86_64-linux-gnu/pkgconfig/wf-config.pc
 c215d1134d45d46b7e52058a94bdc0fa  usr/share/doc/libwf-config/changelog.Debian.gz
 9faa19054cb2df91ae7a1b55ffdb7fce  usr/share/doc/libwf-config/copyright

@@ -3,7 +3,7 @@ Version: 1:0.0.1-luis1~disco
 Architecture: amd64
 Maintainer: Luis Pabon <luis.pabon@auronconsulting.co.uk>
 Installed-Size: 337
-Depends: libc6 (>= 2.29), libevdev2 (>= 0.9.1), libgcc-s1 (>= 3.0), libstdc++6 (>= 5.2), libxml2 (>= 2.7.4), libwlroots0 (>= 0.4)
+Depends: libc6 (>= 2.29), libevdev2 (>= 0.9.1), libgcc-s1 (>= 3.0), libstdc++6 (>= 5.2), libxml2 (>= 2.7.4), libwlroots5 (>= 0.4)
 Section: x11
 Priority: optional
 Homepage: https://wayfire.org/

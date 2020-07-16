@@ -2,7 +2,7 @@ a880648e65f85e410d71b6d5b60a4e04  usr/include/wayfire/config/config-manager.hpp
 fecaecd03c929de30441410a5c72f44d  usr/include/wayfire/config/file.hpp
 e4d8a3d94d6e7794a516447368075959  usr/include/wayfire/config/option-types.hpp
 f766492d6c9e87cdc52dbe9f4adc5c32  usr/include/wayfire/config/option-wrapper.hpp
-2903696fbfca391e3bd7eb60a310b2fe  usr/include/wayfire/config/option.hpp
+7b44ad0fbb926917ab2b00121f776137  usr/include/wayfire/config/option.hpp
 9bc4f2eed25114063d97af3781bbcd28  usr/include/wayfire/config/section.hpp
 b16fdf6325516b501cfe95e8f2da914f  usr/include/wayfire/config/types.hpp
 fed79bbecb14d24ad3f9517f47cb2b94  usr/include/wayfire/config/xml.hpp
@@ -10,7 +10,7 @@ a2901e320118dde1e4fc3b35fe2509d5  usr/include/wayfire/nonstd/optional.hpp
 cc4a268f4e7d273d5d641313ff093b38  usr/include/wayfire/util/duration.hpp
 9afd3fe3ab5067ef6b03117ae48a1a99  usr/include/wayfire/util/log.hpp
 1946c2dfc607bc216a394de564f3cc00  usr/include/wayfire/util/stringify.hpp
-cc85bd06aacff1ed28b0d898576b039c  usr/lib/x86_64-linux-gnu/libwf-config.so.0.4.0
-58b72e258df8982dd1806bc31874f71e  usr/lib/x86_64-linux-gnu/pkgconfig/wf-config.pc
+29f99e5da797bc6c3171323641555120  usr/lib/x86_64-linux-gnu/libwf-config.so.0.4.0
+ec86831282fc35c4134ffda6ad11338e  usr/lib/x86_64-linux-gnu/pkgconfig/wf-config.pc
 c215d1134d45d46b7e52058a94bdc0fa  usr/share/doc/libwf-config/changelog.Debian.gz
 9faa19054cb2df91ae7a1b55ffdb7fce  usr/share/doc/libwf-config/copyright

@@ -1,3 +1,9 @@
+libwf-config (1:0.4.1-luis1~disco) disco; urgency=low
+
+  * New upstream release
+
+ -- Luis Pabon <luis.pabon@auronconsulting.co.uk>  Thu, 16 Jul 2020 09:52:43 +0400
+
 libwf-config (1:0.0.1-luis1~disco) disco; urgency=low
 
   * New upstream release

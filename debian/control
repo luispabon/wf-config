@@ -12,5 +12,5 @@ Homepage: https://wayfire.org/
 
 Package: libwf-config
 Architecture: any
-Depends: ${shlibs:Depends}, ${misc:Depends}, libwlroots0 (>=0.4)
+Depends: ${shlibs:Depends}, ${misc:Depends}, libwlroots5 (>=0.4)
 Description: A library for managing configuration files, written for wayfire https://wayfire.org/

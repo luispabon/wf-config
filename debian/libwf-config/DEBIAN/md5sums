@@ -10,7 +10,7 @@ a2901e320118dde1e4fc3b35fe2509d5  usr/include/wayfire/nonstd/optional.hpp
 cc4a268f4e7d273d5d641313ff093b38  usr/include/wayfire/util/duration.hpp
 9afd3fe3ab5067ef6b03117ae48a1a99  usr/include/wayfire/util/log.hpp
 1946c2dfc607bc216a394de564f3cc00  usr/include/wayfire/util/stringify.hpp
-057dc368d430250b01b928db21915d9a  usr/lib/x86_64-linux-gnu/libwf-config.so.0.3
-e6eed351dab267d5a6acfc62a7187de1  usr/lib/x86_64-linux-gnu/pkgconfig/wf-config.pc
+cc85bd06aacff1ed28b0d898576b039c  usr/lib/x86_64-linux-gnu/libwf-config.so.0.4.0
+58b72e258df8982dd1806bc31874f71e  usr/lib/x86_64-linux-gnu/pkgconfig/wf-config.pc
 c215d1134d45d46b7e52058a94bdc0fa  usr/share/doc/libwf-config/changelog.Debian.gz
 9faa19054cb2df91ae7a1b55ffdb7fce  usr/share/doc/libwf-config/copyright

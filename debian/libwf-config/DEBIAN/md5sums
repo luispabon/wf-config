@@ -12,5 +12,5 @@ cc4a268f4e7d273d5d641313ff093b38  usr/include/wayfire/util/duration.hpp
 1946c2dfc607bc216a394de564f3cc00  usr/include/wayfire/util/stringify.hpp
 29f99e5da797bc6c3171323641555120  usr/lib/x86_64-linux-gnu/libwf-config.so.0.4.0
 ec86831282fc35c4134ffda6ad11338e  usr/lib/x86_64-linux-gnu/pkgconfig/wf-config.pc
-c215d1134d45d46b7e52058a94bdc0fa  usr/share/doc/libwf-config/changelog.Debian.gz
+88678fb4d309a0822b09789f670131f6  usr/share/doc/libwf-config/changelog.Debian.gz
 9faa19054cb2df91ae7a1b55ffdb7fce  usr/share/doc/libwf-config/copyright

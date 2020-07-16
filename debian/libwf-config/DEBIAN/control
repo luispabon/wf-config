@@ -1,5 +1,5 @@
 Package: libwf-config
-Version: 1:0.0.1-luis1~disco
+Version: 1:0.4.1-luis1~disco
 Architecture: amd64
 Maintainer: Luis Pabon <luis.pabon@auronconsulting.co.uk>
 Installed-Size: 337

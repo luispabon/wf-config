@@ -1,7 +1,7 @@
 project(
 	'wf-config',
 	'cpp',
-	version: '0.4.0',
+	version: '0.5.0',
 	license: 'MIT',
 	meson_version: '>=0.43.0',
 	default_options: [
@@ -35,7 +35,8 @@ lib_wfconfig = library('wf-config',
     dependencies: [evdev, glm, libxml2],
     include_directories: wfconfig_inc,
     install: true,
-    version: meson.project_version())
+    version: meson.project_version(),
+    soversion: '1')
 
 pkgconfig = import('pkgconfig')
 pkgconfig.generate(
